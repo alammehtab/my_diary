@@ -1,5 +1,5 @@
 {
-  "name": "goal_setter",
+  "name": "my_diary",
   "version": "1.0.0",
   "description": "It is a goal setter MERN stack application",
   "main": "server.js",
